@@ -1,0 +1,9 @@
+Reading and Writing Files View Flowchart
+Think of file operations like working with documents: 
+ Hello World from Python 11AM Batch 
+ Hello World from Python 11AM Batch 
+ Hello World from Python 11AM Batch
+
+📖 Reading: Opening a book to read content
+✍️ Writing: Writing in a notebook
+📝 Appending: Adding notes to existing document
