@@ -23,3 +23,12 @@ obj3.add()
 obj1.mul()
 obj2.mul()
 obj3.mul()
+
+
+# Pillar of OOPS
+"""
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+"""
